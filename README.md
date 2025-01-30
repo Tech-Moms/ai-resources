@@ -1,18 +1,34 @@
 # AI Resources
 
+## 💬 Chatbots & LLMs
+- [ChatGPT](https://openai.com/chatgpt) - OpenAI’s conversational AI chatbot.
+- [Google Gemini](https://ai.google.dev/) - Google’s multimodal AI assistant for general AI tasks.
+- [DeepSeek](https://deepseek.com/) - Open-source LLM trained for reasoning, coding, and research tasks.
+- [Bing Chat (Microsoft Copilot in Edge)](https://www.bing.com/new) - Microsoft's AI-powered search chatbot.
+
 ## 🚀 AI Code Assistants
 - [GitHub Copilot](https://github.com/features/copilot) - AI-powered coding assistant by GitHub.
 - [Tabnine](https://www.tabnine.com/) - AI code completion tool.
 - [Codeium](https://www.codeium.com/) - Free AI-powered coding assistant.
 - [Continue](https://github.com/continuedev/continue) - Open-source autopilot for VS Code & JetBrains.
 
-## 💬 Chatbots & LLMs
-- [ChatGPT](https://openai.com/chatgpt) - OpenAI’s conversational AI chatbot.
-- [Google Gemini](https://ai.google.dev/) - Google’s multimodal AI assistant.
-- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Open-source ChatGPT UI with API integration.
+## 📊 AI Productivity Assistants
+- [Microsoft Copilot for Microsoft 365](https://www.microsoft.com/en-us/microsoft-copilot) - AI assistant for Word, Excel, PowerPoint, and Outlook.
+- [Google Gemini in Workspace](https://workspace.google.com/products/gemini/) - AI-powered features for Google Docs, Sheets, Gmail, and more.
+- [Notion AI](https://www.notion.so/help/notion-ai) - AI-powered writing and organization within Notion.
+- [Grammarly AI](https://www.grammarly.com/) - AI-powered writing assistant.
+
+## 🔓 Open Source AI Tools on GitHub
+- [Meta Llama](https://ai.meta.com/llama/) - Open-source large language model by Meta.
+- [Mistral AI](https://github.com/mistralai) - Open-weight LLMs for efficient reasoning and chat.
 - [PrivateGPT](https://github.com/imartinez/privateGPT) - Run ChatGPT locally with no internet connection.
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for building LLM-powered applications.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) - Toolkit for connecting LLMs with structured data.
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - Pre-trained models for NLP, vision, and more.
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - Autonomous AI agent built on GPT models.
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Open-source AI agent framework.
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-source text-to-image model.
+- [Diffusers](https://github.com/huggingface/diffusers) - Hugging Face’s framework for diffusion models.
 
 ## 📚 Books & Learning Resources
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen's free online book.
