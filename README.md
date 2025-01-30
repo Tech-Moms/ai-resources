@@ -7,6 +7,8 @@
 - [Continue](https://github.com/continuedev/continue) - Open-source autopilot for VS Code & JetBrains.
 
 ## 💬 Chatbots & LLMs
+- [ChatGPT](https://openai.com/chatgpt) - OpenAI’s conversational AI chatbot.
+- [Google Gemini](https://ai.google.dev/) - Google’s multimodal AI assistant.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Open-source ChatGPT UI with API integration.
 - [PrivateGPT](https://github.com/imartinez/privateGPT) - Run ChatGPT locally with no internet connection.
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for building LLM-powered applications.
