@@ -76,3 +76,12 @@
 - [Papers with Code](https://github.com/paperswithcode) - AI research papers with implementations.
 - [Hugging Face Blog](https://huggingface.co/blog) - AI and NLP news.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - AI discussions on Reddit.
+
+## 📝 AI Articles 
+
+- [A Cheat Sheet for AI in Government](https://codeforamerica.org/news/a-cheat-sheet-for-ai-in-government/?utm_campaign=cfa-newsletter&utm_medium=email&_hsenc=p2ANqtz-8V9RwP0p--UqGZwqw5dWXLbnBHmIGE60JE9Cg8TfB-6taJbC_ybCnGtTffOhgKY1PdaTzpeS1F_q2JzjQrJ_f9jnFU0A&_hsmi=344836515&utm_content=344836417&utm_source=hs_email)
+
+
+<img width="787" alt="Screenshot 2025-01-30 at 6 00 26 PM" src="https://github.com/user-attachments/assets/db1c07b4-4a3d-4470-bd41-afe629b83481" />
+
+
