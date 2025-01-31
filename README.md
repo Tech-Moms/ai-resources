@@ -42,6 +42,9 @@
 - [Andrej Karpathy’s Neural Networks Course](https://www.youtube.com/watch?v=O5xeyoRL95U) - Intro to deep learning.
 - [MIT Deep Learning](https://deeplearning.mit.edu/) - Lecture series by MIT.
 
+### 🎬 Video Shorts
+- [How AI Rebuilt my Mental Health](https://www.instagram.com/reel/DFdNw_wuMly/?utm_source=ig_web_copy_link)
+
 ## 🔨 AI Tools & Frameworks
 - [Transformers](https://github.com/huggingface/transformers) - Hugging Face’s NLP models.
 - [Diffusers](https://github.com/huggingface/diffusers) - State-of-the-art diffusion models.
